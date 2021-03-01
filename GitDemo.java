@@ -1,5 +1,5 @@
 /*****
- * Edit this line to have your name.
+Nathan Kaiser
  ******/
 public class GitDemo {
     
